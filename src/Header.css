@@ -45,3 +45,7 @@
     flex: 1;
     justify-content: center;
 }
+
+.header__option > .MuiSvgIcon-root{
+    color: grey;
+}
