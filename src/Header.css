@@ -1,3 +1,7 @@
+.header_left > img{
+    height: 40px;
+}
+
 .header{
     display: flex;
     padding: 15px 20px;
@@ -12,6 +16,32 @@
 
 }
 
-.header_left > img{
-    height: 50px;
+.header_left{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header_input{
+    display: flex;
+    align-items: center;
+    background-color: #eff2f5;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 999px;
+}
+
+.header_input >input{
+    border: none;
+    background-color: transparent;
+    outline-width: 0;
+}
+
+
+
+/* now header_middle*/
+
+.header_middle{
+    display: flex;
+    flex: 1;
+    justify-content: center;
 }
