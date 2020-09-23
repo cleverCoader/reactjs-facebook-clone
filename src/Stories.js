@@ -21,11 +21,11 @@ function Stories() {
                 profileSrc="https://wallpapercave.com/wp/wp7494287.jpg"
                 title="Tony Stark"
             />
-            <Story
+            {/* <Story
                 image="https://wallpapercave.com/wp/wp1891370.jpg"
                 profileSrc="https://wallpapercave.com/wp/wp1891370.jpg"
                 title="Hawkeye"
-            />
+            /> */}
             <Story
                 image="https://wallpapercave.com/wp/wp1859057.jpg"
                 profileSrc="https://wallpapercave.com/wp/wp1859057.jpg"
