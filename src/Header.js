@@ -19,7 +19,7 @@ function Header() {
     return (
         <div className="header">
             <div className="header_left">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png" alt=""/>
             
                  <div className="header_input">
                     <SearchIcon />
@@ -49,7 +49,7 @@ function Header() {
 
             <div className="header_right">
                 <div className="header_info">
-                    <Avatar />
+                    <Avatar src="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4" />
                     <h4> sam's Code</h4>
                 </div>
                 <IconButton>
