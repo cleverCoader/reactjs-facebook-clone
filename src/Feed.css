@@ -1,5 +1,5 @@
 .feed{
-    flex: 1;
+    flex: 0.5;
     padding: 30px 150px;
     display: flex;
     flex-direction: column;
